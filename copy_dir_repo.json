@@ -3,9 +3,9 @@
     "branch": "ASB-296",
     "folders": [
         {
-            "source": "kernel",
+            "source": "KernelSU-Next/kernel",
             "dest": "drivers/kernelsu",
-            "recursive": true
+            "recursive": false
         }
 
     ]
