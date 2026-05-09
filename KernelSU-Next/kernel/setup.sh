@@ -1,7 +1,7 @@
 #!/bin/sh
 set -eu
 
-GKI_ROOT=$(pwd)
+GKI_ROOT=$(srctree)
 OWNER="KernelSU-Next"
 REPO="$OWNER"
 
