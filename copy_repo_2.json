@@ -1,0 +1,144 @@
+{
+    "source_repo": "Samo1408/android_kernel_samsung_universal9611",
+    "branch": "AOSP-SUSFS",
+    "files": [
+        {
+            "source": "fs/proc/task_nommu.c",
+            "dest": "kernel_root/fs/proc/task_nommu.c"
+        },
+        {
+            "source": "fs/proc/task_mmu.c",
+            "dest": "kernel_root/fs/proc/task_mmu.c"
+        },
+        {
+            "source": "fs/proc/namespaces.c",
+            "dest": "kernel_root/fs/proc/namespaces.c"
+        },
+        {
+            "source": "fs/proc/meminfo.c",
+            "dest": "kernel_root/fs/proc/meminfo.c"
+        },
+        {
+            "source": "fs/proc/internal.h",
+            "dest": "kernel_root/fs/proc/internal.h"
+        },
+        {
+            "source": "fs/proc/fd.c",
+            "dest": "kernel_root/fs/proc/fd.c"
+        },
+        
+        {
+            "source": "fs/proc/cmdline.c",
+            "dest": "kernel_root/fs/proc/cmdline.c"
+        },
+        
+        {
+            "source": "fs/proc/base.c",
+            "dest": "kernel_root/fs/proc/base.c"
+        },
+        
+        {
+            "source": "fs/notify/fdinfo.c",
+            "dest": "kernel_root/fs/notify/fdinfo.c"
+        },
+        {
+            "source": "fs/susfs.c",
+            "dest": "kernel_root/fs/susfs.c"
+        },
+        
+        {
+            "source": "fs/super.c",
+            "dest": "kernel_root/fs/super.c"
+        },
+        
+        
+        {
+            "source": "fs/statfs.c",
+            "dest": "kernel_root/fs/statfs.c"
+        },
+        
+        {
+            "source": "fs/stat.c",
+            "dest": "kernel_root/fs/stat.c"
+        },
+        {
+            "source": "fs/seq_file.c",
+            "dest": "kernel_root/fs/seq_file.c"
+        },
+        {
+            "source": "fs/read_write.c",
+            "dest": "kernel_root/fs/read_write.c"
+        },
+        {
+            "source": "fs/readdir.c",
+            "dest": "kernel_root/fs/readdir.c"
+        },
+        {
+            "source": "fs/proc_namespace.c",
+            "dest": "kernel_root/fs/proc_namespace.c"
+        },
+        {
+            "source": "fs/open.c",
+            "dest": "kernel_root/fs/open.c"
+        },
+        {
+            "source": "fs/namespace.c",
+            "dest": "kernel_root/fs/namespace.c"
+        },
+        {
+            "source": "fs/namei.c",
+            "dest": "kernel_root/fs/namei.c"
+        },
+        {
+            "source": "fs/inode.c",
+            "dest": "kernel_root/fs/inode.c"
+        },
+        {
+            "source": "fs/exec.c",
+            "dest": "kernel_root/fs/exec.c"
+        },
+        {
+            "source": "fs/fdinfo.c",
+            "dest": "kernel_root/fs/fdinfo.c"
+        },
+        
+        
+        {
+            "source": "kernel/kallsyms.c",
+            "dest": "kernel_root/kernel/kallsyms.c"
+        },
+        {
+            "source": "kernel/reboot.c",
+            "dest": "kernel_root/kernel/reboot.c"
+        },
+        {
+            "source": "kernel/sys_ni.c",
+            "dest": "kernel_root/kernel/sys_ni.c"
+        },
+        {
+            "source": "kernel/sys.c",
+            "dest": "kernel_root/kernel/sys.c"
+        },
+        {
+            "source": "kernel/module.c",
+            "dest": "kernel_root/kernel/module.c"
+        },
+        {
+            "source": "include/linux/susfs.h",
+            "dest": "kernel_root/include/linux/susfs.h"
+        },
+        
+        {
+            "source": "include/linux/mount.h",
+            "dest": "kernel_root/include/linux/mount.h"
+        },
+        {
+            "source": "include/linux/sched.h",
+            "dest": "kernel_root/include/linux/sched.h"
+        },
+        {
+            "source": "include/linux/susfs_def.h",
+            "dest": "kernel_root/include/linux/susfs_def.h"
+        }
+    ]
+}

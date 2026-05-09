@@ -1,0 +1,11 @@
+{
+    "source_repo": "Samo1408/Builder_kernel",
+    "branch": "32-sus-2.0.0",
+    "files": [
+
+        {
+            "source": "build.sh",
+            "dest": "build.sh"
+        }
+    ]
+}
