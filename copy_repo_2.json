@@ -97,10 +97,7 @@
             "source": "fs/exec.c",
             "dest": "kernel_root/fs/exec.c"
         },
-        {
-            "source": "fs/fdinfo.c",
-            "dest": "kernel_root/fs/fdinfo.c"
-        },
+        
         
         
         {
