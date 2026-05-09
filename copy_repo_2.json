@@ -7,8 +7,12 @@
             "dest": "kernel_root/fs/proc/task_nommu.c"
         },
         {
-            "source": "fs/proc/task_mmu.c",
-            "dest": "kernel_root/fs/proc/task_mmu.c"
+            "source": "fs/proc/task_nommu.c",
+            "dest": "kernel_root/fs/proc/task_nommu.c"
+        },
+        {
+            "source": "security/selinux/avc.c",
+            "dest": "kernel_root/security/selinux/avc.c"
         },
         {
             "source": "fs/proc/namespaces.c",
