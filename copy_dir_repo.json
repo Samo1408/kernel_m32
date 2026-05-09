@@ -1,0 +1,16 @@
+{
+    "source_repo": "Samo1408/kernel_m32",
+    "branch": "ASB-296",
+    "folders": [
+        {
+            "source": "fs",
+            "dest": "kernel_root/fs",
+            "recursive": true
+        },
+        {
+            "source": "kernel",
+            "dest": "kernel_root/kernel",
+            "recursive": true
+        }
+    ]
+}

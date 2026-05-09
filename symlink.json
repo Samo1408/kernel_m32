@@ -1,0 +1,20 @@
+{
+    "use_relative": true,
+    "symlinks": [
+        {
+            "target": "../../KernelSU-Next/kernel",
+            "link": "kernel_root/drivers/kernelsu",
+            "relative": true
+        },
+        {
+            "target": "../../Builder_kernel/fs",
+            "link": "kernel_root/fs",
+            "relative": true
+        },
+        {
+            "target": "../../Builder_kernel/kernel",
+            "link": "kernel_root/kernel",
+            "relative": true
+        }
+    ]
+}

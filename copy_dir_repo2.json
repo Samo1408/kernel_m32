@@ -1,0 +1,9 @@
+{
+    "source_repo": "Samo1408/Builder_kernel",
+    "branch": "m32-new",
+    "items": [
+        {"type": "file", "source": "build.sh", "dest": "build.sh"},
+        {"type": "folder", "source": "fs", "dest": "kernel_root/fs", "recursive": true},
+        {"type": "folder", "source": "kernel", "dest": "kernel_root/kernel", "recursive": false}
+    ]
+}
